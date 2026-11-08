@@ -6,8 +6,6 @@
 
 ![Audio waveform](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:124B67,100:00B8D9&height=120&section=header&text=CREATE%20%7C%20PROCESS%20%7C%20LISTEN&fontColor=FFFFFF&fontSize=20&animation=fadeIn)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Callandrone-181717?style=for-the-badge&logo=github)](https://github.com/Callandrone)
-
 </div>
 
 I'm a Music and Acoustic Engineering MSc graduate from Politecnico di Milano (110/110), with a BSc in Computer Engineering.
@@ -49,8 +47,9 @@ An ongoing creative audio plugin project focused on textured, atmospheric sound 
 
 
 ##  Let's connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietrocallandrone)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PietroCallandrone-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietrocallandrone)
 
+[![GitHub](https://img.shields.io/badge/GitHub-Callandrone-181717?style=for-the-badge&logo=github)](https://github.com/Callandrone)
 
 
 
