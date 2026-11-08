@@ -29,18 +29,16 @@ I work at the intersection of digital signal processing, real-time audio softwar
 ## Featured projects
 
 ###  [HandGranulator](https://github.com/Callandrone/HandGranulator)
-**C++ · JUCE · Real-time audio**
+**C++, JUCE & Real-time audio**
 
 A granular audio processing plugin developed with JUCE. An exploration of real-time audio architecture, grain-based sound manipulation, and plugin development.
 
-###  Heart–Lung Sound Separation — MSc Thesis
-**Python · PyTorch · Deep Learning · Biomedical DSP**
+###  [Heart–Lung Sound Separation — MSc Thesis](https://github.com/Callandrone/heart-lung-separation-thesis)
+**Python, PyTorch, Deep Learning & Biomedical DSP**
 
 Developed and evaluated a single-channel heart–lung sound separation architecture combining an encoder–separator–decoder pipeline with attention-based processing and multi-scale temporal refinement.
+The work investigated separation performance, acoustic domain differences and generalization across datasets.
 
-The work investigated separation performance, acoustic domain differences, and generalization across datasets.
-
-*Research project — repository link to be added if/when publicly available.*
 
 ###  Bruise — Creative Audio Effects Plugin
 **C++ · JUCE · VST3 · Sound Design**
