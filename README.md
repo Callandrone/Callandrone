@@ -5,12 +5,17 @@
 ### Audio DSP Engineer & Software Developer 
 
 </div>
-
-![Animated Cat](https://raw.githubusercontent.com/Callandrone/Callandrone/main/cat.gif)
-
-I'm a Music and Acoustic Engineering MSc graduate from Politecnico di Milano (110/110), with a BSc in Computer Engineering.
-
-I work at the intersection of digital signal processing, real-time audio software and deep learning. I enjoy developing audio algorithms, turning prototypes into working tools and exploring creative sound design.
+<table>
+  <tr>
+    <td width="220" align="center">
+      <img src="https://raw.githubusercontent.com/Callandrone/Callandrone/main/cat.gif" width="200" alt="Animated Cat" />
+    </td>
+    <td>
+      <p>I'm a Music and Acoustic Engineering MSc graduate from Politecnico di Milano (110/110), with a BSc in Computer Engineering.</p>
+      <p>I work at the intersection of digital signal processing, real-time audio software and deep learning. I enjoy developing audio algorithms, turning prototypes into working tools and exploring creative sound design.</p>
+    </td>
+  </tr>
+</table>
 <div align="center">
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
