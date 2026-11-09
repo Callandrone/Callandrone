@@ -4,9 +4,9 @@
 
 ### Audio DSP Engineer & Software Developer 
 
-![Audio waveform](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:124B67,100:00B8D9&height=120&section=header&text=CREATE%20%7C%20PROCESS%20%7C%20LISTEN&fontColor=FFFFFF&fontSize=20&animation=fadeIn)
-
 </div>
+
+![Animated Cat](https://raw.githubusercontent.com/Callandrone/Callandrone/main/cat.gif)
 
 I'm a Music and Acoustic Engineering MSc graduate from Politecnico di Milano (110/110), with a BSc in Computer Engineering.
 
